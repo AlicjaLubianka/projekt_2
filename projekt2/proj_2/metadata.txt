@@ -13,7 +13,7 @@ email=01179176@pw.edu.pl
 about=Provide a brief description of the plugin and its purpose.
 
 tracker=http://bugs
-repository=https://github.com/jj03141/wtyczka_qgis.git
+repository=https://github.com/AlicjaLubianka/projekt_2.git
 # End of mandatory metadata
 
 # Recommended items:

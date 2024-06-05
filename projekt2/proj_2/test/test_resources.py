@@ -8,7 +8,7 @@
 
 """
 
-__author__ = 'jakub.jasiewicz3@gmail.com'
+__author__ = '01179176@pw.edu.pl'
 __date__ = '2023-06-08'
 __copyright__ = 'Copyright 2024, Magdalena Sternik, Alicja Łubianka'
 
